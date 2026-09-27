@@ -427,7 +427,8 @@
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                    | `apiKey` |  Yes  | Unknown |
 |                         [Restpack](https://restpack.io/)                          | Provides screenshot, HTML to PDF and content extraction APIs   | `apiKey` |  Yes  | Unknown |
-|                     [Todoist](https://developer.todoist.com)                      | Todo Lists                                                     | `OAuth`  |  Yes  | Unknown |
+| [Web2MD](https://167.233.135.161:9999/) | Convert any public URL to clean, readable Markdown with one GET request | No | Yes | Yes |
+|                    [Todoist](https://developer.todoist.com)                      | Todo Lists                                                     | `OAuth`  |  Yes  | Unknown |
 |                      [Vector Express](http://vector.express)                      | Free vector file converting API                                |    No    |  No   |   Yes   |
 |               [Vertopal](https://www.vertopal.com/en/developer/api)               | Convert files using Vertopal API                               | `apiKey` |  Yes  |   No    |
 |                    [WakaTime](https://wakatime.com/developers)                    | Automated time tracking leaderboards for programmers           |    No    |  Yes  | Unknown |
