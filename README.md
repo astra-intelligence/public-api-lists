@@ -341,6 +341,7 @@
 |                                  [JSONbin.io](https://jsonbin.io)                                   | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                 |    `apiKey`     |  Yes  |   Yes   |
 | [Kiprio IP Lookup](https://kiprio.com/ip-api) | IP geolocation and reputation with proxy, VPN, and hosting detection | `apiKey` |  Yes  |   Yes   |
 |                        [Kiprio OG Image](https://kiprio.com/og-api)                        | Generate Open Graph social preview images from URL metadata           | `apiKey` |  Yes  |   Yes   |
+| [OG Image Generator](https://167.233.135.161:8082) | Generate beautiful GitHub OG social preview images via API — free SVG with watermark, $1 removes it | No | Yes | Yes |
 | [Kiprio Screenshot](https://kiprio.com/screenshot-api) | Full-page website screenshots with mobile and desktop emulation | `apiKey` |  Yes  |   Yes   |
 |                        [Let's Validate](https://github.com/letsvalidate/api)                        | Uncovers the technologies used on websites and URL to thumbnail                                     |       No        |  Yes  | Unknown |
 |           [License-API](https://github.com/cmccandless/license-api/blob/master/README.md)           | Unofficial REST API for choosealicense.com                                                          |       No        |  Yes  |   No    |
